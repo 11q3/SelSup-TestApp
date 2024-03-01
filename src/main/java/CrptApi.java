@@ -74,7 +74,6 @@ public class CrptApi {
                 os.flush();
                 os.close();
 
-                System.out.println(newJson);
             } catch (IOException e) {
                 throw new RuntimeException(e);
             }
