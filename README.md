@@ -1,7 +1,7 @@
 # SelSup-TestApp
 
 It is necessary to implement a class in Java (you can use
-version 17) to work with the Fair Sign API. The class must be
+version 17) to work with the "Chestny ZNAK" API. The class must be
 thread-safe and maintain a limit on the number of
 API requests. The limit is specified in the constructor in the form of the number
 of requests in a certain time interval. 
